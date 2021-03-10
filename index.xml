@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Wielfaert</title>
+    <link>https://thomas.wielfaert.be/</link>
+    <description>Recent content on Thomas Wielfaert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Dec 2019 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://thomas.wielfaert.be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De Grote Peiling 13-12-2019 - confidence intervals</title>
+      <link>https://thomas.wielfaert.be/visualisations/grote-peiling-13-12-2019/</link>
+      <pubDate>Sat, 14 Dec 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://thomas.wielfaert.be/visualisations/grote-peiling-13-12-2019/</guid>
+      <description> import {Runtime, Inspector} from &#34;https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js&#34;; import notebook from &#34;https:\/\/api.observablehq.com\/@twielfaert\/vlaamse-kiesintenties.js?v=3&#34;; const inspect = Inspector.into(&#34;#obs-notebook&#34;); (new Runtime).module(notebook, name = (name === &#34;chart&#34;) &amp;&amp; inspect());  </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://thomas.wielfaert.be/posts/my-first.post/</link>
+      <pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://thomas.wielfaert.be/posts/my-first.post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thomas.wielfaert.be/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thomas.wielfaert.be/cv/</guid>
+      <description>Thomas Wielfaert   Natural Language Processing, Data Visualisation, Machine Learning
+  Relevant Work Experience  2017-present NLP Data Scientist / Research Manager at Knowliah (Boortmeerbeek, Belgium). Main tasks:
+  Creating Natural Language Processing pipelines and microservices for the document and knowledge management software that we develop in-house: named entity recognition, topic modelling, auto-summarisation, search query expansion, etc.
+  Managing the applied research projects to improve our products: document classification, terminology management, legal contracts, electronic patient files.</description>
+    </item>
+    
+  </channel>
+</rss>

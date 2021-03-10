@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vizs on Thomas Wielfaert</title>
+    <link>https://thomas.wielfaert.be/viz/</link>
+    <description>Recent content in Vizs on Thomas Wielfaert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Mar 2019 08:47:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://thomas.wielfaert.be/viz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>De Grote Peiling 13-12-2019 - confidence intervals</title>
+      <link>https://thomas.wielfaert.be/viz/grote-peiling-13-12-2019/</link>
+      <pubDate>Sun, 03 Mar 2019 08:47:11 +0100</pubDate>
+      
+      <guid>https://thomas.wielfaert.be/viz/grote-peiling-13-12-2019/</guid>
+      <description> import {Runtime, Inspector} from &#34;https://unpkg.com/@observablehq/notebook-runtime?module&#34;; import notebook from &#34;https:\/\/api.observablehq.com\/@twielfaert\/vlaamse-kiesintenties.js?v=3&#34;; Runtime.load(notebook, Inspector.into(document.getElementById(&#39;obs-notebook&#39;)));   #obs-notebook { font-size: 0.8em; background: #fdfdfd; border-radius: 4px; border: 1px solid #ccc; padding: 9px; }  </description>
+    </item>
+    
+  </channel>
+</rss>
